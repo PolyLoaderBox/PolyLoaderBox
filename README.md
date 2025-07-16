@@ -1,7 +1,18 @@
+<div align = center>
+
+![PLB](https://raw.githubusercontent.com/PolyLoaderBox/Anap0l0n/refs/heads/main/logo.png?token=GHSAT0AAAAAADHNYO5G26FHYYRF65DTCDYA2DXU6IA)
+  
 # PolyLoaderBox
+  
   PolyLoaderBox is the tool you're looking for to download videos, images, data, and also convert them.
 
 With PolyLoaderBox you'll be able to download videos from social networks (Youtube, Instagram and Facebook), video and audio converters (mp3, mp4, wav, mkv), and image bulkers (pinterest, Instagram). 
+
+![PLB](https://raw.githubusercontent.com/PolyLoaderBox/Anap0l0n/refs/heads/main/Screenshot_1.png?token=GHSAT0AAAAAADHNYO5GYLLQ6MRVMRW6Q4E22DXU4AA)
+___________________
+![PLB](https://raw.githubusercontent.com/PolyLoaderBox/Anap0l0n/refs/heads/main/Screenshot_2.png?token=GHSAT0AAAAAADHNYO5G2WRFJQN67ZPKVQCM2DXU3NQ)
+___________________
+![PLB](https://raw.githubusercontent.com/PolyLoaderBox/Anap0l0n/refs/heads/main/Screenshot_3.png?token=GHSAT0AAAAAADHNYO5H2WYD3JZV3DYHWJL62DXU4AQ)
 
 ## RELEASE FILES
 
@@ -19,3 +30,9 @@ The VirusTotal showed two false positives, and if you look it up, this is normal
 
 [Win64:MalwareX-gen [Trj]](https://www.reddit.com/r/cemu/comments/uzrnr0/cemu_infected_with_win64malwarexgen_trj/) and 
 [W32.AIDetectMalware](https://www.reddit.com/r/Malware/comments/13wx2wi/virustotal_says_that_bkav_pro_thinks_that/)
+
+## License
+This software is free to use, but closed source.  
+Please read the terms in [LICENSE.txt] carefully.  
+
+</div>
