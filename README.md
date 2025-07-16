@@ -1,6 +1,6 @@
 <div align = center>
 
-![PLB](https://raw.githubusercontent.com/PolyLoaderBox/PolyLoaderBox/refs/heads/main/assets/logo.png?token=GHSAT0AAAAAADHNYO5HNVUE5XAYN5EA3Y5A2DXVMAA)
+![PLB](assets/logo.png)
   
 # PolyLoaderBox
   
@@ -8,11 +8,11 @@
 
 With PolyLoaderBox you'll be able to download videos from social networks (Youtube, Instagram and Facebook), video and audio converters (mp3, mp4, wav, mkv), and image bulkers (pinterest, Instagram). 
 
-![PLB](https://raw.githubusercontent.com/PolyLoaderBox/PolyLoaderBox/refs/heads/main/assets/Screenshot_1.png?token=GHSAT0AAAAAADHNYO5H3A2EO34RDZXJC6LE2DXVMAQ)
+![PLB](assets/Screenshot_1.png)
 ___________________
-![PLB](https://raw.githubusercontent.com/PolyLoaderBox/PolyLoaderBox/refs/heads/main/assets/Screenshot_2.png?token=GHSAT0AAAAAADHNYO5HYOIT243LG6Y7K63O2DXVMAQ)
+![PLB](assets/Screenshot_2.png)
 ___________________
-![PLB](https://raw.githubusercontent.com/PolyLoaderBox/PolyLoaderBox/refs/heads/main/assets/Screenshot_3.png?token=GHSAT0AAAAAADHNYO5H645AP4E367UUSSAO2DXVMBA)
+![PLB](assets/Screenshot_3.png)
 
 ## RELEASE FILES
 
