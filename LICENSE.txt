@@ -1,0 +1,29 @@
+SOFTWARE LICENSE AGREEMENT (Simplified Version)
+
+1. LICENSE GRANT
+PolyLoaderBox grants the user a free, non-exclusive and non-transferable license to:
+- Use the executable software provided in this repository for any personal or commercial purpose.
+
+2. RESTRICTIONS
+The user is NOT authorized to:
+a) Reverse engineer, decompile or disassemble the executable file (.exe)
+b) Attempt to extract, copy or reconstitute the source code of the software
+c) Distributing modified versions of the executable
+d) Market the software as its own product
+
+3. PROPERTY RIGHTS
+All related source code (even if not publicly available), data structures and algorithms contained in the executable are:
+- The exclusive property of the author
+- Considered protected trade secrets
+- Subject to copyright and intellectual property laws
+
+4. DISCLAIMER OF WARRANTIES
+The software is provided "AS IS" without warranties of any kind.
+
+5. DISTRIBUTION
+Redistribution of the original package (executable + README) is permitted provided that:
+- The original documentation is fully maintained
+- All copyright notices are preserved
+- A copy of this license is included
+
+© 2025 PolyLoaderBox. All rights reserved.
