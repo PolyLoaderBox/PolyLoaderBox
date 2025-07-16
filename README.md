@@ -12,7 +12,7 @@ With PolyLoaderBox you'll be able to download videos from social networks (Youtu
 ___________________
 ![PLB](assets/Screenshot_2.png)
 ___________________
-![PLB](assets/Screenshot_3.png)
+![PLB](assets/Screenshot_4.png)
 
 ## RELEASE FILES
 
