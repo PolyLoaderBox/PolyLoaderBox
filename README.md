@@ -33,6 +33,6 @@ The VirusTotal showed two false positives, and if you look it up, this is normal
 
 ## License
 This software is free to use, but closed source.  
-Please read the terms in [LICENSE.txt] carefully.  
+Please read the terms in [LICENSE.txt](LICENSE.txt) carefully.  
 
 </div>
